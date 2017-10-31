@@ -1,0 +1,24 @@
+.find{
+padding-left: 570px;
+  position: relative;
+  top: 90px;
+  font-size: 20px;
+  font-style: italic;
+  color: white;
+}
+.bottom{
+  padding-left:300px;
+  position: relative;
+  top: 90px;
+  font-size: 20px;
+  color: white;
+}
+.line{
+  top: 150px;
+}
+.abc{
+  margin-bottom: 50px;
+}
+a{
+  color: red;
+}

@@ -1,0 +1,40 @@
+.head{
+  background-color: #333333;
+  font-size: medium;
+  color: white;
+
+  position: absolute;
+
+}
+
+.right_header
+{
+  display: inline;
+  background-color: #333333;
+  padding-left: 1000px;
+ font-size: 20px;
+  width: 50%;
+
+  float: right;
+
+}
+.size{
+  height: 30px;
+  width: 200px;
+ }
+.enter{
+  height: 30px;
+  width: 100px;
+
+  border-color: white;
+  background-color: white;
+
+
+}
+.img{
+  display: inline;
+  float: left;
+  height:25px;
+  width: 100px;
+  background-color: #333333;
+}

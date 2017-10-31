@@ -1,0 +1,26 @@
+.table {
+  margin: auto;
+  width: 25%;
+  table-border-color-dark: black;
+  border: solid;
+  position: relative;
+  top: 40px;
+  font-size: large;
+  padding : 30px;
+
+  background-color: snow;
+
+}
+.font{
+  font-family: "Berlin Sans FB Demi";
+}
+.second_part{
+  background-color: whitesmoke;
+
+}
+
+.col-sm-8{
+  padding-top: 100px;
+  width: 100px;
+  height: 30px;
+}
